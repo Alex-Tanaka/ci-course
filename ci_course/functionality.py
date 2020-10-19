@@ -15,7 +15,7 @@ def greet(name=""):
     str
         The greeting
     """
-    return f"Hello {name}"
+    return "Hello " + name #f"Hello {name}"
 
 
 def minimum(*args):
