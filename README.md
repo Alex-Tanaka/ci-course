@@ -4,6 +4,8 @@
 
 [![codecov](https://codecov.io/gh/Alex-Tanaka/ci-course/branch/main/graph/badge.svg?token=OFSTUFHFSW)](undefined)
 
+[![BCH compliance](https://bettercodehub.com/edge/badge/Alex-Tanaka/ci-course?branch=main)](https://bettercodehub.com/)
+
 # OxRSE Continuous Integration course
 
 This project contains a small Python project. We are going to use free cloud services to automate:
